@@ -16,3 +16,4 @@ google-cloud-secret-manager==2.19.0
 openai
 anthropic
 langgraph
+Pillow
