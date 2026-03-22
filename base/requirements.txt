@@ -17,3 +17,5 @@ openai
 anthropic
 langgraph
 Pillow
+scipy
+Pandas
