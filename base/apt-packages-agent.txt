@@ -1,0 +1,17 @@
+curl
+unzip                                                                                                                                                                                                                                              
+g++                                                                                                                                                                                                                                                
+make
+cmake                                                                                                                                                                                                                                              
+git                                                                                                                                                                                                                                                
+bison           
+flex 
+libprotobuf-dev
+protobuf-compiler
+libnl-route-3-dev                                                                                                                                                                                                                                  
+libseccomp-dev                                                                                                                                                                                                                                     
+pkg-config                                                                                                                                                                                                                                         
+libcurl4-openssl-dev                                                                                                                                                                                                                               
+libsodium-dev                                                                                                                                                                                                                                      
+libfreetype6-dev                                                                                                                                                                                                                                   
+libpng-dev  

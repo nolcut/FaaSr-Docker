@@ -13,3 +13,11 @@ pydantic==2.11.7
 cryptography==42.0.2
 pyjwt==2.8.0
 google-cloud-secret-manager==2.19.0
+openai
+anthropic
+langgraph
+Pillow
+scipy
+pandas
+matplotlib
+numpy
