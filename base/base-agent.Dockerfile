@@ -24,8 +24,5 @@ RUN update-ca-certificates \
     && pip install --no-cache-dir --requirement /tmp/requirements-agent.txt && \
     rm /tmp/requirements-agent.txt
 
-# Set nsjail backend
-ENV FAASR_CODING_BACKEND=nsjail
-
 # Metadata
 LABEL description="Base image for FaaSr"
