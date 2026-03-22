@@ -21,3 +21,4 @@ scipy
 pandas
 matplotlib
 numpy
+genson
